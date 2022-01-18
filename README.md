@@ -22,7 +22,7 @@ If you liked this repository, feel free to leave a star ⭐!
 ## Installation
 
 ```
-git clone https://github.com/peterhanania/discord-rpc.git
+git clone https://github.com/bedsroom/discord-rpc.git
 ```
 
 
@@ -52,5 +52,3 @@ Finally, copy the client ID of the bot and paste it in the `config.json`
  
 Once done, you can launch the code with `start.bat` or `node index.js`. 
 >Make sure discord is opened once you do.
-
-Any questions? DM me on <a href="https://discord.com/users/710465231779790849">Discord</a>.
