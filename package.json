@@ -1,0 +1,23 @@
+{
+  "name": "discord-rpc",
+  "version": "1.0.0",
+  "description": "a way of putting a status on discord!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bedsroom/discord-rpc.git"
+  },
+  "keywords": [
+    "discord",
+    "discord-rpc"
+  ],
+  "author": "Beds",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bedsroom/discord-rpc/issues"
+  },
+  "homepage": "https://github.com/bedsroom/discord-rpc#readme"
+}
